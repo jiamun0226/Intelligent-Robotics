@@ -1,5 +1,7 @@
 # Intelligent-Robotics
+### <ins>Find My Mates</ins>
 
+### Instructions to run the code
 <ol>
 <li>Install ROS Melodic according to http://wiki.ros.org/melodic/Installation/Ubuntu</li>
 <li>Git clone github repo</li>
@@ -23,7 +25,5 @@
 <li>Download and paste all the files into the scripts folder</li>
 <li>Run the xx.sh code </li>
 </ol>
-
-
 
 
