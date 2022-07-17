@@ -22,7 +22,7 @@
 
 `mkdir scripts`
 
-<li>Download and paste all the files into the scripts folder</li>
+<li>Download and paste all the files from scripts into the scripts folder that you have created</li>
 <li>Run the xx.sh code </li>
 </ol>
 
