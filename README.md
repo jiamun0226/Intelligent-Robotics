@@ -1,7 +1,8 @@
 # Intelligent-Robotics
 ### <ins>Find My Mates</ins>
 
-### Instructions to run the code
+### Instructions to run the code.
+<I>P.S. Steps 1 and 2 are not needed if you are deploying the code on JUNO/IO/Jupiter Robot</I>
 <ol>
 <li>Install ROS Melodic according to http://wiki.ros.org/melodic/Installation/Ubuntu</li>
 <li>Git clone github repo</li>
